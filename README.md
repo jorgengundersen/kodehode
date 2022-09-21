@@ -1,16 +1,16 @@
 # kodehode
 
-Takk for en veldig hyggelig prat. Jeg er superimponert over prosjektet og jeg håper jeg kan se prosjektene deres!
+Takk for en veldig hyggelig prat. Jeg er superimponert og jeg håper jeg kan se prosjektene deres!
 
 Dere lurte på om jeg anbefalte noen Youtube-kanaler, så her kommer det.
 
-Legg gjerne til flere kilker på listen!
+Legg gjerne til flere kilder på listen!
 
 ## Men først..
 
 Research er en skill man må lære seg. Jo mer presise søkeord, jo mer presise svar får du.
 
-Det jeg ofte gjør når jeg driver research er å kryssjekke med andre kilder. Hvis flere sier det samme er det et godt tegn. Hvis det er sprikende svar blir jeg mer skeptisk og fortsetter researchen.
+Det jeg ofte gjør når jeg driver research er å kryssjekke med andre kilder. Hvis flere sier det samme er det et godt tegn. Hvis jeg får sprikende svar blir jeg mer skeptisk og fortsetter researchen.
 
 God kildekritikk er viktig når du lærer ting på egenhånd.
 
