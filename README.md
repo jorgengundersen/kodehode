@@ -48,6 +48,8 @@ Her er en liste over Youtube-kanaler jeg har brukt mye. Det er selvfølgelig man
   - Stikkord: Python
 - [Practical Business Python] (https://pbpython.com/)
   - Denne bloggen har jeg brukt mye for å løse Excel-problemer med Python
+- [W3 Schools] (https://www.w3schools.com/)
+  - Har vært og er en life saver. Denne bruker jeg ukentlig!
 
 ## En podcast-episode som har inspirert meg
 Dette er et intervju med skaperen av blant annet Doom og Quake. Han var også lenge CTO for Oculus (VR-selskapet som ble kjøpt opp av Facebook). Han regnes av mange som verdens beste programmerer.
