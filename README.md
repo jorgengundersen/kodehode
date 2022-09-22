@@ -55,7 +55,7 @@ Dette er et intervju med skaperen av blant annet Doom og Quake. Han var også le
 
 ## En liten nøtt som også er et tips... 
 ```
-curl sheat.sh
+curl cheat.sh
 ```
 
 **Lykke til!**
